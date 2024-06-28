@@ -138,7 +138,9 @@ Nuage de points: A partir de la visualisation du nuage de point, on constate que
 - Implémentation du code en python et R
 - Analyse des résultas obtenu
 
-2. Q. Alfred
+2. QUENUM Alfred
+- Implémentation du code en python
+- Analyse de résultat obtenu 
 
 
 ## Task_3
